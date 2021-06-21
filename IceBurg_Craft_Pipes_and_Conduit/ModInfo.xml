@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="IceBurg_Craft_Pipes_and_Conduit" />
+		<Description value="Adds recipes to be able to craft large and small pipes, and the conduit" />
+		<Author value="IceBurg" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

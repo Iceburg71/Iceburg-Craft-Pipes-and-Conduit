@@ -1,0 +1,25 @@
+<IceBurg>
+	<append xpath="/recipes">
+
+<!-- PIPES... -->
+	<!-- Large Metal Pipes -->
+		<!-- metalPipeCap -->
+		<recipe name="pipeLargeBlockVariantHelper" count="1" craft_time="20" craft_area="forge">
+			<ingredient name="unit_iron" count="20"/>
+		</recipe>
+
+	<!-- Small Metal Pipes -->
+		<!-- pipeSmallBlockVariantHelper -->
+		<recipe name="pipeSmallBlockVariantHelper" count="1" craft_time="20" craft_area="forge">
+			<ingredient name="unit_iron" count="15"/>
+		</recipe>
+
+<!-- CONDUIT... -->
+	<!-- Conduit -->
+		<!-- IceburgConduitVariantHelper -->
+		<recipe name="IceburgConduitVariantHelper" count="1" craft_time="20" craft_area="forge">
+			<ingredient name="unit_iron" count="15"/>
+		</recipe>
+
+	</append>
+</IceBurg>
